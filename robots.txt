@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ymlbusan.github.io/Main/sitemap.xml
